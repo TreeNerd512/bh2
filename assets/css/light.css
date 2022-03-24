@@ -1,7 +1,7 @@
 /*-----------------------------------------------------------------
 Project             : Bryan Hisey - Portfolio
 Version             : 1.0
-Author              : Oceans 22 DAO - Themes
+Author              : Oceans 22 DAO - T
 =====================================================================
 
 [Table of contents]
@@ -111,7 +111,7 @@ a:hover {
     margin-top: -50px;
     transform: translate(-50%, -0%);
     left: 50%;
-    background: #f95343;
+    background: #f1f4f6;
 }
 
 .color-white {
@@ -240,7 +240,7 @@ h1 span {
     margin: 0;
     font-weight: 500;
     letter-spacing: 0;
-    color: #f95343;
+    color: #f1f4f6;
     font-size: 18px;
 
 }
@@ -407,7 +407,7 @@ body {
 }
 
 .hero-title h3 {
-    color: #f95343;
+    color: #f1f4f6;
 }
 
 .hero-bg {
@@ -473,7 +473,7 @@ body {
     text-align: center;
     letter-spacing: 3px;
     position: relative;
-    border: 1px solid #f95343;
+    border: 1px solid #f1f4f6;
     text-transform: uppercase;
     font-size: 12px;
     padding: 15px 34px;
@@ -482,13 +482,13 @@ body {
 }
 
 .btn-main:hover {
-    color: #f95343;
+    color: #f1f4f6;
 }
 
 .btn-main:before {
     content: "";
     position: absolute;
-    border-bottom: 1px solid #f95343;
+    border-bottom: 1px solid #f1f4f6;
     width: 30px;
     transform: translate(-50%, -50%);
     height: 1px;
@@ -517,7 +517,7 @@ body {
     width: 50px;
     height: 50px;
     right: 3%;
-    border: 1px solid #f95343;
+    border: 1px solid #f1f4f6;
     z-index: 1000 !important;
 }
 
@@ -588,7 +588,7 @@ body {
     content: '';
     height: 100%;
     width: 1px;
-    background: #f95343;
+    background: #f1f4f6;
 }
 
 
@@ -653,7 +653,7 @@ a.menu-link.active {
 .address-menu h3 {
     font-family: 'Playfair Display', serif;
     font-size: 30px;
-    color: #f95343;
+    color: #f1f4f6;
     font-weight: 600;
 }
 
@@ -687,7 +687,7 @@ a.menu-link.active {
 }
 
 .social ul li:hover a {
-    color: #f95343;
+    color: #f1f4f6;
 }
 
 .social ul {
@@ -718,7 +718,7 @@ a.menu-link.active {
 }
 
 .email-link:hover a {
-    color: #f95343;
+    color: #f1f4f6;
 }
 
 /* ==========================================================================
@@ -776,7 +776,7 @@ a.menu-link.active {
     margin-top: 60px;
     width: 100px;
     height: 3px;
-    background: #f95343;
+    background: #f1f4f6;
 }
 
 .service-list li {
@@ -824,7 +824,7 @@ a.menu-link.active {
 span.strip {
     width: 40px;
     height: 1px;
-    background: #f95343;
+    background: #f1f4f6;
     position: absolute;
     left: 24px;
     top: 10px;
@@ -852,7 +852,7 @@ span.number {
     overflow: hidden;
     margin-bottom: 5px;
     letter-spacing: 1px;
-    color: #f95343;
+    color: #f1f4f6;
     padding: 0;
 
 }
@@ -991,7 +991,7 @@ span.number {
     left: 0;
     width: 60%;
     height: 5px;
-    background-color: #f95343;
+    background-color: #f1f4f6;
     z-index: 2;
 }
 
@@ -999,7 +999,7 @@ p.author-text {
     font-size: 15px;
     font-style: normal;
     font-weight: 600;
-    color: #f95343;
+    color: #f1f4f6;
 }
 
 .item-partner {
@@ -1018,7 +1018,7 @@ p.author-text {
 .line-testi {
     width: 100%;
     height: 1px;
-    background: #f95343;
+    background: #f1f4f6;
     margin: 10px 0;
     opacity: 1;
 }
@@ -1122,10 +1122,10 @@ ul.arrows li {
 }
 
 .news-link {
-    color: #f95343;
+    color: #f1f4f6;
     margin-bottom: 20px;
     padding: 10px;
-    border-bottom: solid 1px #f95343;
+    border-bottom: solid 1px #f1f4f6;
 }
 
 .news-link:hover {
@@ -1168,12 +1168,12 @@ ul.arrows li {
 
 .contact-item h3 span {
     font-family: 'Playfair Display', serif;
-    color: #f95343;
+    color: #f1f4f6;
     font-style: italic;
 }
 
 .contact-item a {
-    color: #f95343;
+    color: #f1f4f6;
 }
 
 .contact {
@@ -1229,7 +1229,7 @@ a.phone {
 }
 
 .detailes h3 {
-    color: #f95343;
+    color: #f1f4f6;
     letter-spacing: 3px;
     font-weight: 900;
     text-transform: uppercase;
@@ -1270,7 +1270,7 @@ a.phone {
     top: 90%;
     left: 50%;
     z-index: -1;
-    background: #f95343;
+    background: #f1f4f6;
 }
 
 .single-page-bg {
